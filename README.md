@@ -4,7 +4,7 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Student-developer
 --------------------
 
-Я студентка МГУ факультета Математической кибернетики. Любовь к программированию началась еще в школе. Сейчас ищу себя в разных языках программирования. Здесь вы найдете реализованные мной проекты, решения учебных задач и домашних работ.
+Я студентка МГУ факультета ВМК. Любовь к программированию началась еще в школе. Сейчас ищу себя в разных языках программирования. Здесь вы найдете реализованные мной проекты, решения учебных задач и домашних работ.
 
 I am a student of the Moscow State University Faculty of Mathematical Cybernetics. My love of programming began at school. Now I'm looking for myself in different programming languages. Here you will find the projects I have implemented, solutions to educational tasks and homework.
 
