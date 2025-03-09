@@ -36,7 +36,7 @@ I am a student of the Moscow State University Faculty of Mathematical Cybernetic
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="36" height="36" alt="Haskell" />
 </a>
 <a href="https://www.maplesoft.com/products/Maple/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Maple_logo.png" width="36" height="36" alt="Maple" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Maple_2016_Logo.png/320px-Maple_2016_Logo.png" width="36" height="36" alt="Maple" />
 </a>
 <a href="https://www.sagemath.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sage_logo.png" width="36" height="36" alt="SageMath" />
