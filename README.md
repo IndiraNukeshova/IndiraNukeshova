@@ -32,5 +32,17 @@ I am a student of the Moscow State University Faculty of Mathematical Cybernetic
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 </a>
+<a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="36" height="36" alt="Haskell" />
+</a>
+<a href="https://www.maplesoft.com/products/Maple/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Maple_logo.png" width="36" height="36" alt="Maple" />
+</a>
+<a href="https://www.sagemath.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sage_logo.png" width="36" height="36" alt="SageMath" />
+</a>
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="50" height="20" alt="LaTeX" />
+</a>
 
 </p>
