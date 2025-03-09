@@ -35,13 +35,6 @@ I am a student of the Moscow State University Faculty of Mathematical Cybernetic
 <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="36" height="36" alt="Haskell" />
 </a>
-<a href="https://www.maplesoft.com/products/Maple/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Maple_2016_Logo.png/320px-Maple_2016_Logo.png" width="36" height="36" alt="Maple" />
-</a>
-<a href="https://www.sagemath.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.sagemath.org/files/misc/sageicon.png" width="36" height="36" alt="SageMath" />
-</a>
-
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="50" height="20" alt="LaTeX" />
 </a>
