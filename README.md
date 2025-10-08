@@ -3,23 +3,23 @@
 ## 🌟 About Me
 Aspiring ML researcher and student-developer with a strong background in mathematics, algorithms, and computer science. Passionate about exploring computational foundations of AI and efficient algorithm design. Currently preparing for a Master’s degree in Computer Science.
 
-- 🌍 Based in Astana, Moscow  
+- 🌍 Based in Almaty, Jeddah  
 - ✉️ Contact: [![Gmail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nukeshova13@mail.ru)  
-- 📂 GitHub: [github.com/IndiraNukeshova](https://github.com/IndiraNukeshova)  
+- 📂 GitHub: [github.com/IndiraNukeshova](https://github.com/IndiraNukeshova)
+- 🔗 LinkedIn: [linkedin.com/in/твоя_ссылка](https://www.linkedin.com/in/indira-nukeshova-795b55388/)
 
 ---
 
 ## 💻 Technical Skills
 
-| Skill | Level |
-|-------|-------|
-| Python 🐍 | █████████░ 90% |
-| C++ 💻 | ████████░░ 80% |
-| Haskell λ | ███████░░░ 70% |
-| LaTeX 📄 | ████████░░ 80% |
-| PostgreSQL 🗄️ | ███████░░░ 70% |
-| VS Code 🖥️ | █████████░ 90% |
-
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+  <a href="https://www.haskell.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="36" height="36" alt="Haskell" /></a>
+  <a href="https://www.latex-project.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="50" height="20" alt="LaTeX" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 ---
 
 ## 🏫 Education & Courses
@@ -42,18 +42,16 @@ Aspiring ML researcher and student-developer with a strong background in mathema
 
 ## 🌍 Languages
 
-| Language | Level |
-|----------|-------|
-| Kazakh 🇰🇿 | ██████████ Native |
-| Russian 🇷🇺 | ██████████ C2 |
-| English 🇬🇧 | ███████░░ B2 |
-| Learning 🌱 | Turkish 🇹🇷, French 🇫🇷, Arabic 🇸🇦 |
-
+- Kazakh — Native  
+- Russian — C2  
+- English — B2  
+- Learning: Turkish, French, Arabic
+- 
 ---
 
 ## 🎯 Interests & Hobbies
 
-Volleyball 🏐, dance 💃, blogging ✍️ — combining creativity, teamwork, and self-expression outside of academics.  
+Volleyball 🏐, dance 💃, blogging ✍️ 
 
 ---
 
